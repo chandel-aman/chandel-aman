@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandel-aman&label=Profile%20views&color=0e75b6&style=flat" alt="chandel-aman" /> </p>
 
-- 🔭 I’m currently working on **Lost and found pets**
+- 🔭 I’m currently working on **Decentralised Real Time Chat Application**
 
-- 🌱 I’m currently learning **NodeJS, ThreeJS, Go, Blender**
+- 🌱 I’m currently learning **Web3, NextJS, ThreeJS, Character Design, Blender**
 
-- 💬 Ask me about **HTML, CSS, JS, React, Node,**
+- 💬 Ask me about **HTML, CSS, JS, React, Node, MongoDB, Express**
 
 - 📫 How to reach me **chandel.s.aman@gmail.com**
 
