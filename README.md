@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandel-aman&label=Profile%20views&color=0e75b6&style=flat" alt="chandel-aman" /> </p>
 
-- 🌱 I’m currently learning **DSA, NextJS, ThreeJS, WebXR, PostgreSQL**
+- 🌱 I’m currently learning **DSA, NextJS, ThreeJS, WebXR**
 
 - 💬 Ask me about **HTML, CSS, JS, React, Node, MongoDB, Express**
 
